@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1670232017105.xml" value="0.22" />
+        <entry key="../../../../layout/compose-model-1670232977139.xml" value="0.22" />
+        <entry key="../../../../layout/compose-model-1670234033974.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1670235017132.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1670235163953.xml" value="0.22" />
+        <entry key="../../../../layout/compose-model-1670251836236.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1670252153461.xml" value="0.18" />
+        <entry key="../../../../layout/compose-model-1670252832882.xml" value="0.2" />
+        <entry key="../../../../layout/compose-model-1670253456508.xml" value="1.0" />
+        <entry key="app/src/main/res/drawable/bg_main.xml" value="0.152" />
+        <entry key="app/src/main/res/drawable/ic_cheese.xml" value="0.152" />
+        <entry key="app/src/main/res/drawable/ic_coin.xml" value="0.152" />
+        <entry key="app/src/main/res/drawable/ic_meat.xml" value="0.152" />
+        <entry key="app/src/main/res/drawable/ic_money.xml" value="0.152" />
+        <entry key="app/src/main/res/drawable/ic_orange.xml" value="0.152" />
+        <entry key="app/src/main/res/drawable/ic_scan.xml" value="0.152" />
+        <entry key="app/src/main/res/drawable/ic_veg.xml" value="0.152" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
